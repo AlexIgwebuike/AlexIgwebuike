@@ -1,13 +1,5 @@
 # 💫 About Me:
-Hi, I’m Alex 👋  <br>I’m a Software Engineer with a strong focus on backend development and system-oriented thinking.<br><br>I enjoy building clean, reliable and scalable backend services and continuously improving my understanding of system design, data processing and architecture.  <br>Currently working in a FinTech environment, dealing with account and transaction data on a daily basis.<br><br>Outside of software engineering, I value sports and creativity as a balance to technical work.<br><br>**Tech Stack:** Go · Java · Kotlin · Bash · Echo · Spring Boot · SQL · MongoDB · Linux<br><br>**Current Focus**<br><br>- Backend engineering with Go<br>- Building APIs with Echo and Spring Boot<br>- Clean architecture & system design<br>- FinTech-related backend systems<br><br>**Interest**<br>- Scalable backend systems<br>- API design & data modeling<br>- Distributed systems<br>- Software architecture
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](# 💫 About Me:
-Hi, I’m Alex 👋  <br>I’m a Software Engineer with a strong focus on backend development and system-oriented thinking.<br><br>I enjoy building clean, reliable and scalable backend services and continuously improving my understanding of system design, data processing and architecture.  <br>Currently working in a FinTech environment, dealing with account and transaction data on a daily basis.<br><br>Outside of software engineering, I value sports and creativity as a balance to technical work.
-
-**Current Focus**<br><br>- Backend engineering with Go<br>- Building APIs with Echo and Spring Boot<br>- Clean architecture & system design<br>- FinTech-related backend systems<br><br>**Interest**<br>- Scalable backend systems<br>- API design & data modeling<br>- Distributed systems<br>- Software architecture
-
+Hi, I’m Alex 👋  <br>I’m a Software Engineer with a strong focus on backend development and system-oriented thinking.<br><br>I enjoy building clean, reliable and scalable backend services and continuously improving my understanding of system design, data processing and architecture.  <br>Currently working in a FinTech environment, dealing with account and transaction data on a daily basis.<br><br>Outside of software engineering, I value sports and creativity as a balance to technical work.**Current Focus**<br>- Backend engineering with Go<br>- Building APIs with Echo and Spring Boot<br>- Clean architecture & system design<br>- FinTech-related backend systems<br><br>**Interest**<br>- Scalable backend systems<br>- API design & data modeling<br>- Distributed systems<br>- Software architecture
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alex Igwebuike) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:igwebuike.alex@yahoo.com) 
