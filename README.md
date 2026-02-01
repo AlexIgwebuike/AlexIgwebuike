@@ -1,5 +1,6 @@
 # About Me:
-Hi, I’m Alex 👋  <br>I’m a Software Engineer with a strong focus on backend development and system-oriented thinking.<br><br>I enjoy building clean, reliable and scalable backend services and continuously improving my understanding of system design, data processing and architecture.  <br>Currently working in a FinTech environment, dealing with account and transaction data on a daily basis.<br><br>Outside of software engineering, I value sports and creativity as a balance to technical work.<br><br>**Current Focus**<br><br>- Backend engineering with Go<br>- Building APIs with Echo and Spring Boot<br>- Clean architecture & system design<br>- FinTech-related backend systems<br><br>**Interest**<br><br>- Scalable backend systems<br>- API design & data modeling<br>- Distributed systems<br>- Software architecture
+Hi, I’m Alex 👋  <br>I’m a Software Engineer with a strong focus on backend development and system-oriented thinking.<br><br>I enjoy building clean, reliable and scalable backend services and continuously improving my understanding of system design, data processing and architecture.  <br>Currently working in a FinTech environment, dealing with account and transaction data on a daily basis.<br><br>Outside of software engineering, I value sports and creativity as a balance to technical work.
+I’m passionate about strength training and athletic development and also play football in a local club, which keeps me physically active and mentally sharp.<br><br>**Current Focus**<br><br>- Backend engineering with Go<br>- Building APIs with Echo and Spring Boot<br>- Clean architecture & system design<br>- FinTech-related backend systems<br><br>**Interest**<br><br>- Scalable backend systems<br>- API design & data modeling<br>- Distributed systems<br>- Software architecture
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-igwebuike-550707190/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:igwebuike.alex@yahoo.com) 
@@ -11,8 +12,3 @@ Hi, I’m Alex 👋  <br>I’m a Software Engineer with a strong focus on backen
 ![](https://nirzak-streak-stats.vercel.app/?user=AlexIgwebuike&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIgwebuike&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlexIgwebuike&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=AlexIgwebuike&icon=0&color=0)](https://visitcount.itsvg.in)
